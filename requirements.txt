@@ -1,6 +1,7 @@
 streamlit
 transformers
 torch
+groq
 sentence-transformers
 chromadb
 base64
